@@ -1,0 +1,8 @@
+Brainstorming
+
+Current ideas:
+- Application that tracks symptoms for patients and creates databases accessible to hospitals, doctors
+- Application for landlords that tracks properties and performs certain actions
+
+Goals:
+- Make something cool
