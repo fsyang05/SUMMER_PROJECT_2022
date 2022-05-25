@@ -4,6 +4,7 @@ Current ideas:
 - Application that tracks symptoms for patients and creates databases accessible to hospitals, doctors
 - Application for landlords that tracks properties and performs certain actions
 - Similar to above, an restaurant application for reservations, ordering, etc
+- Recipe search service; database of recipes, users can search using filters and keywords
 
 Goals:
 - Make something cool
