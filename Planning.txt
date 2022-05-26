@@ -1,0 +1,8 @@
+Planning
+
+Week 1 Goals (5/30 - 6/5)
+- Ensure everybody has access to GitHub repository, Slack channels, coding environment, etc.
+- Finalize idea, plan next few weeks
+- Identify challenges, goals, checkpoints
+- Assign roles; back-end, front-end, etc.
+- Start learning whatever we need to
