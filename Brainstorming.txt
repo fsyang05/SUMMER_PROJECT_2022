@@ -1,10 +1,11 @@
 Brainstorming
 
 Current ideas:
-- Application that tracks symptoms for patients and creates databases accessible to hospitals, doctors
-- Application for landlords that tracks properties and performs certain actions
-- Similar to above, an restaurant application for reservations, ordering, etc
-- Recipe search service; database of recipes, users can search using filters and keywords
+1. Application that tracks symptoms for patients and creates databases accessible to hospitals, doctors
+2. Application for landlords that tracks properties and performs certain actions
+3. Similar to above, an restaurant application for reservations, ordering, etc
+4. Recipe search service; database of recipes, users can search using filters and keywords
+5. Day planner (routine + reminders)
 
 Goals:
 - Make something cool
