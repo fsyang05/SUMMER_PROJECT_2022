@@ -2,7 +2,7 @@ Voting
 
 Vote using numbers on brainstorming.txt
 
-Felix - 
+Felix - 3
 Alek - 
 Sig - 
 Gus - 
