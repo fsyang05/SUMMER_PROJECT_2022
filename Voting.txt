@@ -4,6 +4,6 @@ Vote using numbers on brainstorming.txt
 
 Felix - 3
 Alek - 
-Sig - 
+Sig - 3
 Gus - 
 
