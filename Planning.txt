@@ -6,3 +6,23 @@ Week 1 Goals (5/30 - 6/5)
 - Identify challenges, goals, checkpoints
 - Assign roles; back-end, front-end, etc.
 - Start learning whatever we need to learn
+
+
+General Outline
+
+Frontend:
+- Mobile application (preferably available on iOS and Android)
+- Features:
+    - Restaurant search bar
+    - Display restaurant information (location, phone, hours, etc.)
+    - Reservation / calling buttons
+    - Saving restaurants / recently accessed restaurants (maybe)
+    - Using AI to search for restaurants users might be interested in (maybe)
+    - Account creation (maybe)
+- We can use a mobile app builder such as Azure Mobile Apps
+
+Backend:
+- Up-to-date database of restaurants (Oracle, SQL Server), we can fill database using information from Yelp API
+- Pulls relevant restaurant information (SQL server using Python using pyodbc, pandas to extract)
+- Allows users to make reservations, sends requests to restaurants to make reservation (hosting our own server to allow requests?)
+- Allows users to search using restaurant names (later on we can incorporate keywords, price, location, etc. as filters)
